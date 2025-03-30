@@ -1,6 +1,9 @@
 # Music-file-deduplication
 # 音乐文件去重工具
 
+[English Version](README_EN.md) | [中文版](README.md)
+
+
 ## 项目简介
 本仓库提供了一款用于去除重复音乐文件的工具，支持多种常见格式，包括 MP3、WAV、FLAC、M4A 等。
 
